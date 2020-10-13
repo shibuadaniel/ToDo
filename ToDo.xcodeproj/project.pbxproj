@@ -12,6 +12,7 @@
 		D95A63E12534C4B70017102D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D95A63E02534C4B70017102D /* Assets.xcassets */; };
 		D95A63E42534C4B70017102D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D95A63E32534C4B70017102D /* Preview Assets.xcassets */; };
 		D95A63F02534E5DA0017102D /* ToDoItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95A63EF2534E5DA0017102D /* ToDoItem.swift */; };
+		D95A63F7253502EA0017102D /* Navigation.swift in Sources */ = {isa = PBXBuildFile; fileRef = D95A63F6253502EA0017102D /* Navigation.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		D95A63E32534C4B70017102D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D95A63E52534C4B70017102D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		D95A63EF2534E5DA0017102D /* ToDoItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItem.swift; sourceTree = "<group>"; };
+		D95A63F6253502EA0017102D /* Navigation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Navigation.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				D95A63DC2534C4B30017102D /* ToDoApp.swift */,
 				D95A63DE2534C4B30017102D /* ToDoList.swift */,
+				D95A63F6253502EA0017102D /* Navigation.swift */,
 				D95A63EF2534E5DA0017102D /* ToDoItem.swift */,
 				D95A63E02534C4B70017102D /* Assets.xcassets */,
 				D95A63E52534C4B70017102D /* Info.plist */,
@@ -144,6 +147,7 @@
 				D95A63DF2534C4B30017102D /* ToDoList.swift in Sources */,
 				D95A63DD2534C4B30017102D /* ToDoApp.swift in Sources */,
 				D95A63F02534E5DA0017102D /* ToDoItem.swift in Sources */,
+				D95A63F7253502EA0017102D /* Navigation.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
